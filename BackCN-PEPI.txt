@@ -103,6 +103,8 @@ DOMAIN-SUFFIX,douban.com,PROXY
 DOMAIN-SUFFIX,doubanio.com,PROXY
 # 天眼查
 DOMAIN-SUFFIX,tianyancha.com,PROXY
+# 富途
+DOMAIN-SUFFIX,futunn.com,PROXY
 
 # IP地址测试
 DOMAIN-SUFFIX,ip138.com,PROXY
